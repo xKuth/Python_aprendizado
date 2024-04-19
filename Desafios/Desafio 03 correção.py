@@ -1,0 +1,5 @@
+print('========= DESAFIO =======')
+primeiro = int(input('Primeiro numero '))
+segundo = int(input('Segundo nuemro '))
+soma = int(primeiro) + int(segundo)
+print('A soma é ', soma)
