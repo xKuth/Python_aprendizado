@@ -1,4 +1,4 @@
-letra = str(input('Digite algo '))
+letra = input('Digite algo ')
 print('Seu tipo primitivo é',type(letra))
 print('Pode ser convertida para numero ?', letra.isnumeric())
 print('Contem letras ou numeros ?', letra.isalnum())
