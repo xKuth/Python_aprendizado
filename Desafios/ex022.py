@@ -1,0 +1,7 @@
+nome = str(input('Digite um nome: '))
+print(nome.upper())
+print(nome.lower())
+nomesepa = nome.split()
+nomejun = ''.join(nomesepa)
+print('Seu nome possuí {} carcateres'.format(len(nomejun)))
+print('Seu primeiro nome tem {} caracteres'.format(len(nomesepa[0])))

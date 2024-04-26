@@ -1,0 +1,5 @@
+frase = str(input('Qual frase deseja Verificar? '))
+frasecon = frase.upper()
+print('A letra "A" aparece {} vezes'.format(frasecon.count('A')))
+print('A primeira letra "A" aparece primeira vez na posição {}'.format(frasecon.find('A')))
+print('A posição do ultimo "A" é {}'.format(frasecon.rfind('A')))
