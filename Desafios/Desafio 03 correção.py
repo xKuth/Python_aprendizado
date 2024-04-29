@@ -1,5 +1,5 @@
-print('========= DESAFIO =======')
+print('========= \033[4;31m DESAFIO \033[m =======')
 primeiro = int(input('Primeiro numero '))
 segundo = int(input('Segundo nuemro '))
 soma = int(primeiro) + int(segundo)
-print('A soma é ', soma)
+print('A soma é \033[1;32;40m', soma, '\033[m')
