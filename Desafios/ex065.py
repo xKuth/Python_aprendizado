@@ -17,5 +17,5 @@ while res != 'N':
     soma = n1 + soma
     cont += 1
 media = soma / cont
-print('A média entre todos valores digitados são {}'.format(media))
+print('A média entre os {} valores digitados são {}'.format(cont, media))
 print('O maior número foi {} e o menor foi {}'.format(maior, menor))

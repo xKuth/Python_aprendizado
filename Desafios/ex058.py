@@ -2,7 +2,6 @@ import random
 comp_adiv = random.randrange(0, 10)
 res = 0
 cont = 0
-print(comp_adiv)
 while comp_adiv != res:
     res = int(input('Tenter adivinhar o meu número [0/10]:  '))
     if comp_adiv != res:
