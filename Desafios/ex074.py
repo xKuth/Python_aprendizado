@@ -1,0 +1,15 @@
+from random import randrange
+print(f'Os valores sorteados foram: ', end='')
+maior = menor = valor = 0
+for cont in range(0, 5):
+    n1 = randrange(0, 10)
+    print(n1, end=' ' if cont < 4 else '\n')
+    if cont == 0:
+        maior = n1
+        menor = n1
+    if n1 > maior:
+        maior = n1
+    if n1 < menor:
+        menor = n1
+print(f'O maior valor sorteado foi {maior}')
+print(f'O menor valor sorteado foi {menor}')
