@@ -20,3 +20,13 @@ for cont in range(0, len(palavras)):
         vogal += 'u ' * contagem_u
     print(vogal)
     vogal = ''
+
+
+# Solução do Gustavo Guanabara
+'''palavras = ('aprender', 'programar', 'linguagem', 'curso', 'gratis', 'estudar', 'trabalhar',
+            'mercado', 'programar')
+for p in palavras:
+    print(f'\nNa palavra {p.upper()} temos ', end='')
+    for letra in p:
+        if letra.lower() in 'aeiou':
+            print(letra, end=' ')'''
