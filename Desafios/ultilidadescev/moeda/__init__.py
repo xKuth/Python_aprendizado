@@ -6,15 +6,15 @@ def resumo(num, a, b):
     print('-'*30)
     print(f'{"":^5}Resumo do valor')
     print('-'*30)
-    print(f'Preço analisado: \t{moeda(num)}') # Com \t você consegue fazer uma tabulação e faz o espaçamento sozinho
-    print(f'Dobro do preço: \t{moeda(dobro)}')
-    print(f'Metade do preço: \t{moeda(metade)}')
-    print(f'80% de aumento: \t{moeda(aumento)}')
-    print(f'35% de redução: \t{moeda(reduçao)}')
+    print(f'Preço analisado: {" ":>2}{moeda(num)}')
+    print(f'Dobro do preço: {" ":>3}{moeda(dobro)}')
+    print(f'Metade do preço: {" ":>2}{moeda(metade)}')
+    print(f'{a}% de aumento: {" ":>3}{moeda(aumento)}')
+    print(f'{b}% de redução: {" ":>3}{moeda(reduçao)}')
     print('-'*30)
 
 
 def moeda(num):
-    novo_numero = f'R${num}'
+    novo_numero = f'R${num:.2f}'
     formatado = novo_numero.replace('.', ',')
     return formatado
