@@ -1,11 +1,12 @@
 import Vnumeros
+cores = {'quebra': '\033[m', 'vermelho': '\033[31m', 'verde': '\033[32m'}
 contagem_num = media = quebra = 0
 lista_numeros = []
 mudar = ''
 dlista = False
 while True:
     res = ''
-    numero = Vnumeros.verificação()
+    numero = Vnumeros.verificacao()
     if numero == 0:
         break
     else:
@@ -24,19 +25,20 @@ while True:
                 contagem_num += cont
         media = contagem_num / contagem_v
     contagem_num = 0
-    print(f'A media da lista digitada foi: {media:.2f}')
+    print(f'{cores['verde']}A media da lista digitada foi:{cores['quebra']} {cores['vermelho']}'
+          f'{media:.2f}{cores['quebra']}')
     while True:
         try:
-            res = str(input('Deseja continuar ? [S/N]: ')).upper()[0]
+            res = str(input(f'{cores['vermelho']}Deseja continuar ?{cores['quebra']} [S/N]: ')).upper()[0]
         except KeyboardInterrupt:
-            print('O Usuario preferiu encerrar o programa!')
+            print(f'{cores['vermelho']}O Usuario preferiu encerrar o programa!{cores['quebra']}')
             quebra = 1
             break
         if res == 'S':
             print('-'*30)
             print('Selecione as opções:')
-            print('1º continuar na mesma lista')
-            print('2º mudar a lista')
+            print(f'{cores['verde']}1º continuar na mesma lista')
+            print(f'{cores['verde']}2º mudar a lista{cores['quebra']}')
             mudar = Vnumeros.numeroverificado()
             if mudar == 1:
                 break
@@ -46,7 +48,7 @@ while True:
         elif res == 'N':
             break
         else:
-            print('O parametro digitado está errado! tente novamente')
+            print(f'{cores['vermelho']}O parametro digitado está errado! tente novamente{cores['quebra']}')
     if res == 'N' or quebra == 1:
         break
-print('PROGRAMA FINALIZADO!!')
+print(f'{cores['vermelho']}PROGRAMA FINALIZADO!!{cores['quebra']}')
