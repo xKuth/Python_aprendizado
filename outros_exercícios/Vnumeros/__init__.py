@@ -2,6 +2,10 @@ cores = {'quebra': '\033[m', 'vermelho': '\033[31m', 'verde': '\033[32m'}
 
 
 def verificacao():
+    """
+    -> Verificar a Quant de valores na mesma lista!
+    :return: Quantidade de números que deseja em um mesmo indice na lista
+    """
     while True:
         try:
             numero = str(input(f'{cores['verde']}Quantos números você quer a média? {cores['quebra']}'))
@@ -18,8 +22,12 @@ def verificacao():
             print(f'{cores['vermelho']}O ÚSUARIO PREFERIU ENCERRAR O PROGRAMA{cores['quebra']}')
             return 0
 
-
 def cadastro(numero):
+    """
+    -> Faz o cadastro de números inteiros em uma lista!
+    :param numero: Quantidade de números que seram adicionados!
+    :return: Todos números cadastros em uma lista!
+    """
     lista = []
     while True:
         print('Quais número deseja adicionar? ')
@@ -38,6 +46,10 @@ def cadastro(numero):
 
 
 def numeroverificado():
+    """
+    -> Verificação se é pra apagar a lista ou para mante-la
+    :return: opção selecionada (1 ou 2)
+    """
     while True:
         try:
             valor = str(input(f'{cores['verde']}digite o valor [1 ou 2]: {cores['quebra']}')).strip()
@@ -49,5 +61,6 @@ def numeroverificado():
         except (ValueError, TypeError):
             print(f'{cores['vermelho']}O valor verificado não corresponde a inteiro! Tente novamente{cores['quebra']}')
         except KeyboardInterrupt:
+            print()
             print(f'{cores['vermelho']}O usuario decidiu encerrar o programa!{cores['quebra']}')
-            break
+            return 0
