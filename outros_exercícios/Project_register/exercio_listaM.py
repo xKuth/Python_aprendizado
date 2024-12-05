@@ -38,18 +38,27 @@ while True:
         if res == 'S':
             print('-'*30)
             print('Selecione as opções:')
-            print(f'{cores['verde']}1º continuar na mesma lista')
-            print(f'{cores['verde']}2º mudar a lista{cores['quebra']}')
+            print(f'{cores['vermelho']}1º continuar na mesma lista:')
+            print(f'2º mudar a lista:')
+            print(f'3º Mudar para média ja criada:')
+            print(f'4º Mostrar médias ja cadastradas{cores['quebra']}:')
             mudar = Vnumeros.numeroverificado()  # verificação se continua na lista ou apaga!
             if mudar == 1:
                 break
-            else:
+            elif mudar == 2:
                 lista_numeros.clear()
                 break
+            elif mudar == 3:
+                print(f'Selecione a media ja criada da lista:')
+                registro_media.monstarmedias()
+                media_selecionada = int(input('Qual média deseja selecionar ? (Apenas o numeros que estão no []): '))
+                media = registro_media.mediaexistente(media_selecionada)
+            else:
+                registro_media.monstarmedias()
         elif res == 'N':
             break
         else:
             print(f'{cores['vermelho']}O parametro digitado está errado! tente novamente{cores['quebra']}')
-    if res == 'N' or quebra == 1 or mudar == 0:
+    if res == 'N' or quebra == 1 or mudar == 0 or 3:
         break
 print(f'{cores['vermelho']}PROGRAMA FINALIZADO!!{cores['quebra']}')

@@ -22,6 +22,7 @@ def verificacao():
             print(f'{cores['vermelho']}O ÚSUARIO PREFERIU ENCERRAR O PROGRAMA{cores['quebra']}')
             return 0
 
+
 def cadastro(numero):
     """
     -> Faz o cadastro de números inteiros em uma lista!
@@ -52,8 +53,8 @@ def numeroverificado():
     """
     while True:
         try:
-            valor = str(input(f'{cores['verde']}digite o valor [1 ou 2]: {cores['quebra']}')).strip()
-            if valor.isnumeric() and valor == '1' or valor == '2':
+            valor = str(input(f'{cores['verde']}digite o valor [1 / 2 / 3]: {cores['quebra']}')).strip()
+            if valor.isnumeric() and valor == '1' or '2' or '3' or '4':
                 num = int(valor)
                 return num
             else:
