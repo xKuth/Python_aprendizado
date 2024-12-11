@@ -1,5 +1,5 @@
 import mysql.connector
-
+import random
 
 connect = mysql.connector.connect(
     host='localhost',
@@ -9,11 +9,11 @@ connect = mysql.connector.connect(
 )
 
 table = connect.cursor()
-table.execute("CREATE TABLE IF NOT EXISTS game (id INT PRIMARY KEY, personagem VARCHAR(50))")
-
+# table.execute("alter table game add column valores int (3)"
+# table.execute("alter table game modify column valores float(3) not null")
 for i in range(1, 200):
-    personagem = f"nome{i}"
-    table.execute("INSERT INTO game (id, personagem) VALUES (%s, %s)", (i, personagem))
+    num_aleatorio = random.uniform(0, 100)
+    table.execute(f"UPDATE game set valores = (%s) where id = (%s)", (num_aleatorio, i))
 
 connect.commit()
 
