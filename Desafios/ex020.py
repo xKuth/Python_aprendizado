@@ -1,5 +1,7 @@
 import random
-#ou usar apenas importação que vai usar (from random import shuffle)
+
+
+# ou usar apenas importação que vai usar (from random import shuffle)
 
 aluno1 = input('nome do Primeiro aluno? ')
 aluno2 = input('nome do Segundo aluno ? ')

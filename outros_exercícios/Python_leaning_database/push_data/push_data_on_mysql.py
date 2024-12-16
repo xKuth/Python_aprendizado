@@ -1,34 +1,49 @@
 import mysql.connector
-import random
-
-connect = mysql.connector.connect(
+comparar = list()
+marca_real = list()
+marcas_carros = list()
+aki = list()
+conected = mysql.connector.connect(
     host='localhost',
     user='root',
     password='1234',
-    database='cadastro',
+    database='cadastro'
+
 )
+table = conected.cursor()
+# table.execute("Drop table marcas")
+table.execute("CREATE TABLE IF NOT EXISTS Fabricantes (id INT AUTO_INCREMENT PRIMARY KEY, nomes VARCHAR(50))")
 
-table = connect.cursor()
-# table.execute("alter table game add column valores int (3)"
-# table.execute("alter table game modify column valores float(3) not null")
-# table.execute("alter table game add column comp_validada varchar(1) not null")
-'''
-for i in range(1, 200):
-    num_aleatorio = random.uniform(0, 100)
-    table.execute(f"UPDATE game set valores = (%s) where id = (%s)", (num_aleatorio, i))
-'''
 
-'''
-for i in range(0, 200):
-    escolhida = random.choice(['v', 'f'])
-    table.execute("Update game set comp_validada = (%s) where id = (%s)", (escolhida, i))
-'''
-table.execute("select * from game")
-resultado = table.fetchall()
-for x in resultado:
-    print(x)
+with open('cars.txt', 'r') as carros:
+    for i, marca in enumerate(carros):
+        marcas_carros.append(marca)
 
-# connect.commit()
+valor = 0
+for i in range(len(marcas_carros)):
+    if i == 0:
+        marca_real.append(marcas_carros[i])
+    elif marcas_carros[i] != valor:
+        marca_real.append(marcas_carros[i])
+    valor = marcas_carros[i]
 
+for i, letra in enumerate(marca_real):
+    for o, letras in enumerate(letra):
+        if not letras == '\n':
+            comparar.append(letras)
+        else:
+            comparar.append('-')
+
+aki = ''.join(comparar)
+x = aki.split('-')
+
+
+for i, marca in enumerate(x):
+    completo = [marca]
+    print(completo)
+    table.execute('INSERT INTO fabricantes (nomes) VALUES (%s)',completo)
+conected.commit()
 table.close()
-connect.close()
+conected.close()
+
+
