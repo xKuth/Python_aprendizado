@@ -15,7 +15,7 @@ table = conected.cursor()
 table.execute("CREATE TABLE IF NOT EXISTS Fabricantes (id INT AUTO_INCREMENT PRIMARY KEY, nomes VARCHAR(50))")
 
 
-with open('cars.txt', 'r') as carros:
+with open('fabricantes.txt', 'r') as carros:
     for i, marca in enumerate(carros):
         marcas_carros.append(marca)
 
@@ -41,7 +41,7 @@ x = aki.split('-')
 for i, marca in enumerate(x):
     completo = [marca]
     print(completo)
-    table.execute('INSERT INTO fabricantes (nomes) VALUES (%s)',completo)
+    table.execute('INSERT INTO fabricantes (nomes) VALUES (%s)', completo)
 conected.commit()
 table.close()
 conected.close()
