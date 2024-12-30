@@ -53,8 +53,8 @@ connect = mysql.connector.connect(
 )
 connection = connect.cursor()
 connection.execute('CREATE TABLE IF NOT EXISTS jogos (numeros_sorteados INT NOT NULL) ')
-# abre o arquivo com números ja cadastrados
 
+# abre o arquivo com números ja cadastrados
 with open('registro_jogos.txt', 'r') as jogos:
     todos_jogos = jogos.read()
     # Retira os texto e os paragrafos indesejados

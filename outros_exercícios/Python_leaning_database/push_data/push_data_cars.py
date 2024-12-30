@@ -21,11 +21,11 @@ for i, veiculos in enumerate(cars):
     veiculos_real.append(carros)
 
 comparacao = ','.join(veiculos_real)
-
+# Adiciona a string pronta ao banco de dados
 for i in range(len(veiculos_real)):
     valor = [comparacao]
     table.execute(f'Update fabricantes set nomes = %s where id = 33',  valor)
-
+# Comita para o banco de dados se tudo ocorrer bem.
 db.commit()
 table.close()
 db.close()
