@@ -1,0 +1,675 @@
+ああ ; ああ ; ah ; Ah!  
+会う ; あう ; to meet ; encontrar  
+青い ; あおい ; blue ; azul  
+赤い ; あかい ; red ; vermelho  
+明るい ; あかるい ; light, bright ; claro, brilhante  
+秋 ; あき ; autumn, fall ; outono  
+開く ; あく ; open ; abrir  
+開ける ; あける ; to open ; abrir  
+あげる ; あげる ; to give ; dar  
+朝 ; あさ ; morning ; manhã  
+朝ご飯 ; あさごはん ; breakfast ; café da manhã  
+あさって ; あさって ; the day after tomorrow ; depois de amanhã  
+足 ; あし ; leg, foot ; perna, pé  
+明日 ; あした ; tomorrow ; amanhã  
+あそこ ; あそこ ; over there ; ali, lá  
+遊ぶ ; あそぶ ; to play ; brincar, jogar  
+温かい ; あたたかい ; warm ; morno, quente  
+頭 ; あたま ; head ; cabeça  
+新しい ; あたらしい ; new ; novo  
+あちら ; あちら ; over there (polite) ; ali, lá (educado)  
+暑い ; あつい ; hot (air) ; quente (ar)  
+厚い ; あつい ; thick ; grosso  
+後 ; あと ; later, after ; depois  
+貴方 ; あなた ; you ; você  
+兄 ; あに ; older brother ; irmão mais velho  
+姉 ; あね ; older sister ; irmã mais velha  
+あの ; あの ; that (over there) ; aquele(a)  
+あの ; あの ; well, then ; bem, então  
+アパート ; アパート ; apartment ; apartamento  
+浴びる ; あびる ; to take a shower ; tomar banho  
+危ない ; あぶない ; dangerous ; perigoso  
+甘い ; あまい ; sweet ; doce  
+あまり ; あまり ; not so ; não muito  
+雨 ; あめ ; rain ; chuva  
+洗う ; あらう ; to wash ; lavar  
+有る ; ある ; to be, to exist ; existir, haver  
+ある ; ある ; to possess ; possuir  
+歩く ; あるく ; to walk ; caminhar, andar  
+あれ ; あれ ; that one ; aquele(a)  
+良い ; いい / よい ; good ; bom  
+いいえ ; いいえ ; no ; não  
+言う ; いう ; to say, to tell ; dizer, contar  
+家 ; いえ ; house, home ; casa, lar  
+行く ; いく ; to go ; ir  
+いくつ ; いくつ ; how many, how old ; quantos, quantos anos  
+いくら ; いくら ; how much ; quanto  
+池 ; いけ ; pond ; lagoa  
+医者 ; いしゃ ; doctor ; médico  
+椅子 ; いす ; chair ; cadeira  
+忙しい ; いそがしい ; to be busy ; estar ocupado  
+痛い ; いたい ; to be painful ; doer, dolorido  
+一 ; いち ; one ; um  
+一日 ; いちにち ; one day ; um dia  
+一番 ; いちばん ; No. 1, the best, the first ; número 1, o melhor, o primeiro  
+いつ ; いつ ; when ; quando  
+五日 ; いつか ; the 5th day of the month, 5 days ; dia 5 do mês, cinco dias  
+一緒 ; いっしょ ; together ; junto  
+五つ ; いつつ ; five ; cinco  
+いつも ; いつも ; always ; sempre  
+今 ; いま ; now ; agora  
+意味 ; いみ ; meaning ; significado  
+妹 ; いもうと ; someone’s younger sister ; irmã mais nova (de alguém)  
+いや ; いや ; not likable, unpleasant ; desagradável, indesejável  
+入口 ; いりぐち ; entrance ; entrada  
+いる ; いる ; need, must have, be required ; precisar, ser necessário  
+いる ; いる ; to exist ; existir (ser animado)  
+入れる ; いれる ; to insert, to put in ; inserir, colocar dentro  
+色 ; いろ ; color ; cor  
+色々 ; いろいろ ; various ; vários, diversos  
+上 ; うえ ; top, on, above ; topo, em cima, acima  
+後ろ ; うしろ ; back, rear, behind ; atrás, parte de trás  
+薄い ; うすい ; thin ; fino  
+歌 ; うた ; song ; canção, música  
+歌う ; うたう ; to sing ; cantar  
+内 ; うち ; home ; casa, lar  
+生まれる ; うまれる ; to be born ; nascer  
+海 ; うみ ; sea ; mar  
+売る ; うる ; to sell ; vender  
+上着 ; うわぎ ; coat, jacket ; casaco, jaqueta  
+絵 ; え ; picture ; imagem, desenho  
+映画 ; えいが ; movie ; filme  
+映画館 ; えいがかん ; cinema ; cinema  
+英語 ; えいご ; English language ; língua inglesa  
+ええ ; ええ ; Yes, I see ; sim, entendi  
+駅 ; えき ; station ; estação  
+エレベータ ; エレベータ ; elevator ; elevador  
+円 ; えん ; Yen ; iene (moeda japonesa)  
+鉛筆 ; えんぴつ ; pencil ; lápis  
+御 ; お ; honorific prefix ; prefixo honorífico  
+美味しい ; おいしい ; tasty, delicious ; saboroso, delicioso  
+大きい ; おおきい ; big ; grande  
+おおぜい ; おおぜい ; many people ; muitas pessoas  
+お母さん ; おかあさん ; my own mother ; minha mãe  
+お菓子 ; おかし ; confectionary, cake ; doces, confeitaria  
+お金 ; おかね ; money ; dinheiro  
+起きる ; おきる ; to get up, to stand up ; levantar-se, acordar  
+置く ; おく ; to put, to place ; colocar, pôr  
+奥さん ; おくさん ; someone’s wife ; esposa de alguém  
+送る ; おくる ; to send ; enviar  
+お酒 ; おさけ ; alcohol, sake ; álcool, saquê  
+お皿 ; おさら ; plate ; prato  
+伯父さん ; おじさん ; uncle ; tio  
+おじいさん ; おじいさん ; grandfather ; avô  
+押す ; おす ; to push ; empurrar  
+遅い ; おそい ; late, slow ; tarde, devagar  
+お茶 ; おちゃ ; tea ; chá  
+お手洗い ; おてあらい ; toilet, lavatory ; banheiro, lavabo  
+お父さん ; おとうさん ; father ; pai  
+弟 ; おとうと ; someone’s younger brother ; irmão mais novo (de alguém)  
+男 ; おとこ ; man ; homem  
+男の子 ; おとこのこ ; boy ; menino  
+一昨日 ; おととい ; the day before yesterday ; anteontem  
+一昨年 ; おととし ; the year before last ; ano retrasado  
+大人 ; おとな ; adult ; adulto  
+お腹 ; おなか ; stomach ; estômago, barriga  
+同じ ; おなじ ; same ; igual, mesmo  
+お兄さん ; おにいさん ; someone’s elder brother ; irmão mais velho (de alguém)  
+お姉さん ; おねえさん ; someone’s elder sister ; irmã mais velha (de alguém)  
+伯母さん ; おばさん ; aunt ; tia  
+おばあさん ; おばあさん ; grandmother ; avó  
+お弁当 ; おべんとう ; lunchbox ; marmita, lancheira  
+覚える ; おぼえる ; to memorize, to remember ; memorizar, lembrar  
+重い ; おもい ; heavy ; pesado  
+面白い ; おもしろい ; interesting, funny ; interessante, engraçado  
+泳ぐ ; およぐ ; to swim ; nadar  
+降りる ; おりる ; to get off ; descer  
+終わる ; おわる ; to end ; terminar, acabar  
+音楽 ; おんがく ; music ; música  
+女 ; おんな ; woman ; mulher  
+女の子 ; おんなのこ ; girl ; menina  
+〜回 ; 〜かい ; ~times ; ~vezes  
+〜階 ; 〜かい ; ~floor ; ~andar  
+外国 ; がいこく ; foreign country ; país estrangeiro  
+外国人 ; がいこくじん ; foreigner ; estrangeiro  
+会社 ; かいしゃ ; company, enterprise ; empresa  
+階段 ; かいだん ; stairs ; escadas  
+買物 ; かいもの ; shopping ; compras  
+買う ; かう ; to buy ; comprar  
+返す ; かえす ; to return an object ; devolver um objeto  
+帰る ; かえる ; to return home ; voltar para casa  
+顔 ; かお ; face ; rosto  
+かかる ; かかる ; to take time, money ; levar tempo, custar dinheiro  
+鍵 ; かぎ ; key ; chave  
+書く ; かく ; to write ; escrever  
+学生 ; がくせい ; student ; estudante  
+〜か月 ; 〜かげつ ; ~ number of months ; ~número de meses  
+かける ; かける ; to wear ; vestir, usar (óculos)  
+かける ; かける ; to make a phone call ; fazer uma ligação  
+傘 ; かさ ; umbrella ; guarda-chuva  
+貸す ; かす ; to lend ; emprestar  
+風 ; かぜ ; wind ; vento  
+風邪 ; かぜ ; a cold ; resfriado  
+家族 ; かぞく ; family ; família  
+方 ; かた ; person (polite) ; pessoa (formal)  
+片仮名 ; かたかな ; Katakana ; Katakana  
+一月 ; いちがつ ; January ; janeiro  
+二月 ; にがつ ; February ; fevereiro  
+三月 ; さんがつ ; March ; março  
+四月 ; しがつ ; April ; abril  
+五月 ; ごがつ ; May ; maio  
+六月 ; ろくがつ ; June ; junho  
+七月 ; しちがつ ; July ; julho  
+八月 ; はちがつ ; August ; agosto  
+九月 ; くがつ ; September ; setembro  
+十月 ; じゅうがつ ; October ; outubro  
+十一月 ; じゅういちがつ ; November ; novembro  
+十二月 ; じゅうにがつ ; December ; dezembro  
+学校 ; がっこう ; school ; escola  
+角 ; かど ; corner ; esquina, canto  
+家内 ; かない ; my wife ; minha esposa  
+鞄 ; かばん ; bag ; bolsa, mala  
+花瓶 ; かびん ; vase ; vaso  
+冠る ; かぶる ; to put on a hat ; colocar um chapéu  
+紙 ; かみ ; paper ; papel  
+カメラ ; カメラ ; camera ; câmera  
+火曜日 ; かようび ; Tuesday ; terça-feira  
+辛い ; からい ; hot, spicy ; picante, apimentado  
+体 ; からだ ; body ; corpo  
+借りる ; かりる ; to borrow ; pegar emprestado  
+〜がります ; ~がります ; 3rd person wants to ; terceira pessoa deseja  
+軽い ; かるい ; light (not heavy) ; leve (não pesado)  
+カレンダー ; カレンダー ; calendar ; calendário  
+川 ; かわ ; river ; rio  
+〜側 ; ~がわ ; ~side ; ~lado  
+可愛い ; かわいい ; cute, pretty ; fofo, bonito  
+漢字 ; かんじ ; Kanji character ; caractere Kanji  
+木 ; き ; tree ; árvore  
+黄色い ; きいろい ; yellow ; amarelo  
+消える ; きえる ; to go out, to vanish ; apagar, desaparecer  
+聞く ; きく ; to hear, to listen, to ask ; ouvir, escutar, perguntar  
+北 ; きた ; north ; norte  
+ギター ; ギター ; guitar ; guitarra  
+汚い ; きたない ; dirty ; sujo  
+喫茶店 ; きっさてん ; coffee shop ; cafeteria  
+切手 ; きって ; stamp ; selo  
+切符 ; きっぷ ; ticket ; bilhete, passagem  
+昨日 ; きのう ; yesterday ; ontem  
+九 ; きゅう ; nine ; nove  
+牛肉 ; ぎゅうにく ; beef ; carne bovina  
+牛乳 ; ぎゅうにゅう ; milk ; leite  
+今日 ; きょう ; today ; hoje  
+教室 ; きょうしつ ; classroom ; sala de aula  
+兄弟 ; きょうだい ; siblings ; irmãos  
+去年 ; きょねん ; last year ; ano passado  
+嫌い ; きらい ; unpleasant, not likable ; desagradável, não gostar  
+切る ; きる ; to cut ; cortar  
+着る ; きる ; to wear, to put on ; vestir, colocar (roupa)  
+来る ; くる ; to come ; vir  
+きれい ; きれい ; beautiful, clean ; bonito, limpo  
+キロ ; キロ ; kg ; quilograma  
+キロ ; キロ ; km ; quilômetro  
+銀行 ; ぎんこう ; bank ; banco  
+金曜日 ; きんようび ; Friday ; sexta-feira  
+九 ; く ; nine ; nove  
+薬 ; くすり ; medicine ; remédio  
+下さい ; ください ; give me… ; por favor, me dê…  
+果物 ; くだもの ; fruit ; fruta  
+口 ; くち ; mouth ; boca  
+靴 ; くつ ; shoe ; sapato  
+靴下 ; くつした ; socks ; meias  
+国 ; くに ; country ; país  
+曇り ; くもり ; cloudy weather ; tempo nublado  
+暗い ; くらい ; dark ; escuro  
+ぐらい ; ぐらい ; about ; aproximadamente  
+クラス ; クラス ; class ; classe, turma  
+グラム ; グラム ; gram ; grama  
+車 ; くるま ; car ; carro  
+黒い ; くろい ; black ; preto  
+今朝 ; けさ ; this morning ; esta manhã  
+消す ; けす ; to turn off, switch off ; apagar, desligar  
+けっこう ; けっこう ; fine, all right ; tudo bem, aceitável  
+結婚 ; けっこん ; marriage ; casamento  
+月曜日 ; げつようび ; Monday ; segunda-feira  
+玄関 ; げんかん ; entrance of a house ; entrada da casa  
+元気 ; げんき ; vigor, health, vitality ; vigor, saúde, vitalidade  
+〜個 ; 〜こ ; ~ko ; contador para objetos pequenos  
+五 ; ご ; five ; cinco  
+〜語 ; 〜ご ; ~go ; idioma  
+公園 ; こうえん ; park, large garden ; parque, jardim grande  
+交番 ; こうばん ; police box ; posto policial  
+声 ; こえ ; voice ; voz  
+コート ; コート ; coat ; casaco  
+ここ ; ここ ; here ; aqui  
+午後 ; ごご ; afternoon ; tarde  
+九日 ; ここのか ; 9th day of a month, 9 days ; 9º dia do mês, 9 dias  
+九つ ; ここのつ ; nine ; nove  
+ご主人 ; ごしゅじん ; someone else’s husband ; marido de outra pessoa  
+午前 ; ごぜん ; morning, a.m. ; manhã, a.m.  
+答える ; こたえる ; to answer ; responder  
+こちら ; こちら ; this side, this place ; este lado, este lugar  
+コップ ; コップ ; cup, glass ; copo, taça  
+今年 ; ことし ; this year ; este ano  
+言葉 ; ことば ; phrase, language ; frase, linguagem  
+子供 ; こども ; child ; criança  
+この ; この ; this… ; este(a)  
+御飯 ; ごはん ; meal, cooked rice ; refeição, arroz cozido  
+困る ; こまる ; to be in trouble ; estar em apuros  
+これ ; これ ; this ; isto  
+ごろ ; ごろ ; around… ; por volta de…  
+今月 ; こんげつ ; this month ; este mês  
+今週 ; こんしゅう ; this week ; esta semana  
+こんな ; こんな ; this sort of, this kind of ; desse tipo, assim  
+今晩 ; こんばん ; this evening ; esta noite  
+さあ ; さあ ; well… ; bem…  
+〜歳 ; 〜さい ; ~sai ; anos de idade  
+魚 ; さかな ; fish ; peixe  
+先 ; さき ; earlier, former ; antes, anterior  
+咲く ; さく ; to blossom ; florescer  
+作文 ; さくぶん ; composition ; redação  
+さす ; さす ; to open an umbrella ; abrir um guarda-chuva  
+冊 ; 〜さつ ; ~satsu ; contador para livros  
+雑誌 ; ざっし ; magazine ; revista  
+砂糖 ; さとう ; sugar ; açúcar  
+寒い ; さむい ; cold ; frio  
+再来年 ; さらいねん ; the year after next year ; o ano depois do próximo  
+三 ; さん ; three ; três  
+〜さん ; 〜さん ; ~san ; Sr., Sra.  
+散歩 ; さんぽ ; to take a walk ; caminhar, passear  
+四 ; し ; four ; quatro  
+〜時 ; 〜じ ; ~ji ; o’clock  
+塩 ; しお ; salt ; sal  
+しかし ; しかし ; however, but ; no entanto, mas  
+時間 ; じかん ; time ; tempo  
+〜時間 ; 〜じかん ; ~hours (classifier) ; ~horas (classificador)  
+仕事 ; しごと ; work ; trabalho  
+辞書 ; じしょ ; dictionary ; dicionário  
+静か ; しずか ; quiet ; quieto  
+下 ; した ; under, below ; abaixo, embaixo  
+質問 ; しつもん ; question ; pergunta  
+自転車 ; じてんしゃ ; bicycle ; bicicleta  
+自動車 ; じどうしゃ ; car, vehicle ; carro, veículo  
+死ぬ ; しぬ ; to die, to pass away ; morrer  
+字引 ; じびき ; dictionary ; dicionário  
+自分 ; じぶん ; oneself ; si mesmo  
+閉まる ; しまる ; to close ; fechar (algo)  
+閉める ; しめる ; to close ; fechar (algo)  
+締める ; しめる ; to fasten a seatbelt ; apertar, prender (cinto de segurança)  
+じゃ ; じゃ ; well, then ; então  
+写真 ; しゃしん ; photo ; foto  
+シャツ ; シャツ ; shirt ; camisa  
+十 ; じゅう ; ten ; dez  
+~週間 ; 〜しゅうかん ; … weeks ; … semanas  
+授業 ; じゅぎょう ; lesson, class ; aula  
+宿題 ; しゅくだい ; homework ; dever de casa  
+上手 ; じょうず ; to be good at something ; ser bom em algo  
+丈夫 ; じょうぶ ; to be strong, durable ; ser forte, durável  
+醤油 ; しょうゆ ; soy sauce ; molho de soja  
+食堂 ; しょくどう ; dining room, canteen ; refeitório, cantina  
+知る ; しる ; to know ; saber  
+白い ; しろい ; white ; branco  
+〜人 ; 〜じん ; ~an, ~ese (nationality) ; ~an, ~ese (nacionalidade)  
+新聞 ; しんぶん ; newspaper ; jornal  
+水曜日 ; すいようび ; Wednesday ; quarta-feira  
+吸う ; すう ; to breathe, to smoke ; respirar, fumar  
+スカート ; スカート ; skirt ; saia  
+好き ; すき ; to like ; gostar  
+〜過ぎ ; 〜すぎ ; past, over ; passado, além  
+すぐに ; すぐに ; at once ; imediatamente  
+少し ; すこし ; little ; um pouco  
+涼しい ; すずしい ; cool ; fresco  
+〜ずつ ; 〜ずつ ; each ; cada  
+ストーブ ; ストーブ ; stove, heater ; aquecedor, fogão  
+スプーン ; スプーン ; spoon ; colher  
+スポーツ ; スポーツ ; sports ; esportes  
+ズボン ; ズボン ; trousers ; calças  
+住む ; すむ ; to live, to reside somewhere ; viver, residir em algum lugar  
+スリッパ ; スリッパ ; slipper ; chinelo  
+する ; する ; to do ; fazer  
+座る ; すわる ; to sit ; sentar
+背 ; せい ; height ; altura
+生徒 ; せいと ; student ; estudante
+セーター ; セーター ; sweater ; suéter
+石鹸 ; せっけん ; soap ; sabão
+背広 ; せびろ ; jacket, suit ; jaqueta, terno
+狭い ; せまい ; narrow ; estreito
+ゼロ ; ゼロ ; zero ; zero
+千 ; せん ; 1,000, thousand ; mil
+先月 ; せんげつ ; last month ; mês passado
+先週 ; せんしゅう ; last week ; semana passada
+先生 ; せんせい ; teacher ; professor
+洗濯 ; せんたく ; washing, to wash ; lavar, lavagem
+全部 ; ぜんぶ ; all ; tudo
+そう ; そう ; so ; assim
+掃除 ; そうじ ; to clean ; limpar
+そうして ; そうして ; and then ; e então
+そこ ; そこ ; there ; lá
+そちら ; そちら ; there (polite) ; lá (formal)
+外 ; そと ; outside ; fora
+その ; その ; that… ; aquele(a)
+そば ; そば ; next to ; ao lado
+空 ; そら ; sky ; céu
+それ ; それ ; that ; isso
+それから ; それから ; after that ; depois disso
+それでは ; それでは ; then, well ; então, bem
+〜代 ; 〜だい ; ~dai ; counter for machines ; classificativo para máquinas
+大学 ; だいがく ; university ; universidade
+大使館 ; たいしかん ; embassy ; embaixada
+大丈夫 ; だいじょうぶ ; OK ; tudo bem
+大好き ; だいすき ; to be very fond of ; gostar muito de
+大切 ; たいせつ ; very important ; muito importante
+たいてい ; たいてい ; mostly, usually ; geralmente
+台所 ; だいどころ ; kitchen ; cozinha
+大変 ; たいへん ; very, serious ; muito, sério
+高い ; たかい ; high, expensive ; alto, caro
+沢山 ; たくさん ; many, much ; muitos, muito
+タクシー ; タクシー ; taxi ; táxi
+出す ; だす ; to take out, hand in ; tirar, entregar
+~達 ; 〜たち ; ~tachi ; more than one, and others ; mais de um, e outros
+立つ ; たつ ; to stand ; ficar em pé
+建物 ; たてもの ; building ; edifício
+楽しい ; たのしい ; pleasant, enjoyable ; agradável, divertido
+頼む ; たのむ ; to ask, to request ; pedir, solicitar
+たばこ ; たばこ ; cigarette ; cigarro
+多分 ; たぶん ; perhaps, probably ; talvez, provavelmente
+食べ物 ; たべもの ; food ; comida
+食べる ; たべる ; to eat ; comer
+卵 ; たまご ; egg ; ovo
+誰 ; だれ ; who? ; quem?
+誕生日 ; たんじょうび ; birthday ; aniversário
+だんだん ; だんだん ; gradually ; gradualmente
+小さい ; ちいさい ; small ; pequeno
+近い ; ちかい ; near, close ; perto, próximo
+違う ; ちがう ; different ; diferente
+地下鉄 ; ちかてつ ; subway ; metrô
+地図 ; ちず ; map ; mapa
+父 ; ちち ; my father ; meu pai
+茶色 ; ちゃいろ ; brown ; marrom
+茶碗 ; ちゃわん ; rice bowl ; tigela de arroz
+〜中 ; 〜ちゅう ; ~chuu ; in the middle of ; no meio de
+ちょうど ; ちょうど ; just ; exatamente
+ちょっと ; ちょっと ; a little ; um pouco
+一日 ; ついたち ; the 1st day of a month ; o primeiro dia do mês
+使う ; つかう ; to use ; usar
+疲れる ; つかれる ; to get tired ; ficar cansado
+次 ; つぎ ; next ; próximo
+着く ; つく ; to arrive ; chegar
+机 ; つくえ ; table ; mesa
+作る ; つくる ; to make, to produce ; fazer, produzir
+点ける ; つける ; to turn on ; ligar
+勤める ; つとめる ; to work for someone ; trabalhar para alguém
+詰らない ; つまらない ; uninteresting ; desinteressante
+冷たい ; つめたい ; cold ; frio
+強い ; つよい ; strong ; forte
+手 ; て ; hand ; mão
+テープ ; テープ ; tape ; fita
+テープレコーダー ; テープレコーダー ; tape recorder ; gravador de fita
+テーブル ; テーブル ; table ; mesa
+出かける ; でかける ; to go out ; sair
+手紙 ; てがみ ; letter ; carta
+出来る ; できる ; can ; poder, ser capaz
+出口 ; でぐち ; exit ; saída
+テスト ; テスト ; test ; teste
+では ; では ; then, well ; então, bem
+デパート ; デパート ; department store ; loja de departamentos
+でも ; でも ; but ; mas
+出ます ; でます ; to leave ; sair
+テレビ ; テレビ ; TV ; televisão
+天気 ; てんき ; weather ; tempo
+電気 ; でんき ; electricity ; eletricidade
+電車 ; でんしゃ ; train ; trem
+電話 ; でんわ ; phone ; telefone
+戸 ; と ; door ; porta
+〜度 ; 〜ど ; ~times, ~degree ; ~vezes, ~grau
+ドア ; ドア ; door ; porta
+トイレ ; トイレ ; toilet, lavatory ; banheiro, lavatório
+どう ; どう ; how? ; como?
+どうして ; どうして ; why? ; por que?
+どうぞ ; どうぞ ; please, here you are ; por favor, aqui está
+動物 ; どうぶつ ; animal ; animal
+どうも ; どうも ; thanks ; obrigado
+十 ; とお ; ten ; dez  
+遠い ; とおい ; far ; longe  
+十日 ; とおか ; the 10th day of a month, 10 days ; o 10º dia do mês, 10 dias  
+時々 ; ときどき ; sometimes ; às vezes  
+時計 ; とけい ; watch, clock ; relógio, despertador  
+どこ ; どこ ; where? ; onde?  
+所 ; ところ ; place ; lugar  
+図書館 ; としょかん ; library ; biblioteca  
+どちら ; どちら ; which, where (polite) ; qual, onde (polido)  
+とても ; とても ; very much, quiet ; muito, quieto  
+どなた ; どなた ; who (polite) ; quem (polido)  
+隣り ; となり ; next to ; ao lado  
+どの ; どの ; which? ; qual?  
+飛ぶ ; とぶ ; to fly ; voar  
+止まる ; とまる ; to stop ; parar  
+友達 ; ともだち ; friend ; amigo  
+土曜日 ; どようび ; Saturday ; sábado  
+鳥 ; とり ; bird ; pássaro  
+鶏肉 ; とりにく ; chicken meat ; carne de frango  
+取る ; とる ; to take ; pegar  
+撮る ; とる ; to take a photo ; tirar uma foto  
+どれ ; どれ ; which? ; qual?  
+どんな ; どんな ; what kind of? ; que tipo de?  
+ナイフ ; ナイフ ; knife ; faca  
+中 ; なか ; inside ; dentro  
+長い ; ながい ; long ; longo  
+鳴く ; なく ; to sing, mew, moo ; cantar, miar, mugir  
+夏 ; なつ ; summer ; verão  
+夏休み ; なつやすみ ; summer vacation ; férias de verão  
+〜など ; 〜など ; ~nado ; and so on ; e assim por diante  
+七つ ; ななつ ; seven ; sete  
+何 ; なに ; what? ; o que?  
+七日 ; のうか ; the 7th of a month, 7 days ; o 7º dia do mês, 7 dias  
+名前 ; なまえ ; name ; nome  
+習う ; ならう ; to learn ; aprender  
+並ぶ ; ならぶ ; to form a line ; formar uma fila  
+並べる ; ならべる ; to line up ; alinhar  
+なる ; なる ; to become ; tornar-se  
+二 ; に ; two ; dois  
+賑やか ; にぎやか ; lively ; animado  
+お肉 ; おにく ; meat ; carne  
+西 ; にし ; west ; oeste  
+〜日 ; 〜にち ; ~nichi ; …st, ..nd, ..th ; …º, ..nd, ..th (data)  
+日曜日 ; にちようび ; Sunday ; domingo  
+荷物 ; にもつ ; luggage ; bagagem  
+ニュース ; ニュース ; news ; notícias  
+庭 ; にわ ; garden ; jardim  
+〜人 ; 〜にん ; ~nin ; … people ; … pessoas  
+脱ぐ ; ぬぐ ; to take off clothes ; tirar roupas  
+ネクタイ ; ねくたい ; necktie ; gravata  
+寝る ; ねる ; to go to bed ; dormir  
+〜年 ; 〜ねん ; ~nen ; ~years ; anos  
+ノート ; ノート ; notebook ; caderno  
+登る ; のぼる ; to climb up ; subir  
+飲物 ; のみもの ; drinks ; bebidas  
+飲む ; のむ ; to drink ; beber  
+乗る ; のる ; to take, to ride ; andar, pegar (meios de transporte)  
+歯 ; は ; teeth ; dentes  
+パーテイー ; パーテイー ; party ; festa  
+はい ; はい ; yes ; sim  
+〜はい ; 〜はい ; ~hai ; cups of ~ ; copos de ~  
+灰皿 ; はいざら ; ashtray ; cinzeiro  
+入る ; はいる ; to enter ; entrar  
+葉書 ; はがき ; postcard ; cartão postal  
+履く ; はく ; to put on shoes ; calçar (sapatos)  
+箱 ; はこ ; box ; caixa  
+橋 ; はし ; bridge ; ponte  
+箸 ; はし ; chopsticks ; pauzinhos (hashi)  
+始まる ; はじまる ; to begin, to start ; começar  
+始め ; はじめ ; start, the beginning ; começo  
+初めて ; はじめて ; for the first time ; pela primeira vez  
+走る ; はしる ; to run ; correr  
+バス ; バス ; bus ; ônibus  
+バター ; バター ; butter ; manteiga  
+二十歳 ; はたち ; 20 years old ; 20 anos  
+働く ; はたらく ; to work ; trabalhar  
+八 ; はち ; eight ; oito  
+二十日 ; はつか ; the 20th of the month, 20 days ; o dia 20 do mês, 20 dias  
+花 ; はな ; flower ; flor  
+鼻 ; はな ; nose ; nariz  
+話 ; はなし ; conversation, tale ; conversa, história  
+話す ; はなす ; to talk, to speak, to tell ; falar, contar  
+母 ; はは ; my mother ; minha mãe  
+早い ; はやい ; early ; cedo  
+速い ; はやい ; fast, quick ; rápido  
+春 ; はる ; spring ; primavera  
+張る ; はる ; to put something on, to stick ; colocar algo, colar  
+晴れる ; はれる ; to clear up ; clarear  
+〜半 ; 〜はん ; ~han ; Half~ ; metade  
+晩 ; ばん ; evening ; noite  
+~番 ; 〜ばん ; ~ban ; No.~, ranking ; número, classificação  
+パン ; パン ; bread ; pão  
+ハンカチ ; ハンカチ ; handkerchief ; lenço  
+番号 ; ばんごう ; number ; número  
+晩ご飯 ; ばんごはん ; dinner ; jantar  
+半分 ; はんぶん ; half ; metade  
+東 ; ひがし ; east ; leste  
+〜匹 ; 〜ひき ; ~hiki ; counter for animals ; contador para animais  
+引く ; ひく ; to pull ; puxar  
+弾く ; ひく ; to play (an instrument) ; tocar (um instrumento)  
+低い ; ひくい ; low ; baixo
+飛行機 ; ひこうき ; plane ; avião
+左 ; ひだり ; left ; esquerda
+人 ; ひと ; person ; pessoa
+一つ ; ひとつ ; one ; um
+一月 ; ひとつき ; one month ; um mês
+一人 ; ひとり ; one person ; uma pessoa
+暇 ; ひま ; free time, leisure ; tempo livre, lazer
+百 ; ひゃく ; hundred ; cem
+病院 ; びょういん ; hospital ; hospital
+病気 ; びょうき ; ill, sick ; doente
+平仮名 ; ひらがな ; hiragana characters ; caracteres hiragana
+昼 ; ひる ; noon ; meio-dia
+昼ご飯 ; ひるごはん ; lunch ; almoço
+広い ; ひろい ; wide, spacious ; amplo, espaçoso
+フィルム ; フィルム ; film ; filme
+封筒 ; ふうとう ; envelope ; envelope
+プール ; プール ; pool ; piscina
+フォーク ; フォーク ; fork ; garfo
+吹く ; ふく ; to blow (wind) ; soprar (vento)
+服 ; ふく ; clothes ; roupas
+二つ ; ふたつ ; two ; dois
+豚肉 ; ぶたにく ; pork ; carne de porco
+二人 ; ふたり ; two people ; duas pessoas
+二日 ; ふつか ; 2nd day of the month, 2 days ; 2º dia do mês, 2 dias
+太い ; ふとい ; thick, fat ; grosso, gordo
+降る ; ふる ; to fall (rain, snow) ; cair (chuva, neve)
+古い ; ふるい ; old ; antigo
+お風呂 ; おふろ ; bath ; banho
+〜分 ; 〜ふん ; ~minutes ; ~minutos
+ページ ; ページ ; page ; página
+下手 ; へた ; not good at something ; não ser bom em algo
+ベッド ; ベッド ; bed ; cama
+部屋 ; へや ; room ; quarto
+辺 ; へん ; side, part, area ; lado, parte, área
+ペン ; ぺん ; pen ; caneta
+勉強 ; べんきょう ; to study ; estudar
+便利 ; べんり ; convenient ; conveniente
+方 ; ほう ; ~より〜のほうが〜 ; mais... que...
+帽子 ; ぼうし ; hat ; chapéu
+ボールペン ; ボールペン ; ballpen ; caneta
+他 ; ほか ; another, other ; outro, outra
+ポケット ; ポケット ; pocket ; bolso
+欲しい ; ほしい ; to want something ; querer algo
+細い ; ほそい ; thin, fine ; fino
+ボタン ; ボタン ; button ; botão
+ホテル ; ホテル ; hotel ; hotel
+本 ; ほん ; book ; livro
+〜本 ; 〜ほん ; ~counter for long objects ; contador para objetos longos
+本棚 ; ほんだな ; bookshelf ; estante de livros
+本当に ; ほんとうに ; really ; realmente
+〜枚 ; 〜まい ; ~counter for thin objects ; contador para objetos finos
+毎朝 ; まいあさ ; every morning ; toda manhã
+毎月 ; まいつき/まいげつ ; every month ; todo mês
+毎週 ; まいしゅう ; every week ; toda semana
+毎日 ; まいにち ; every day ; todo dia
+毎年 ; まいとし/まいねん ; every year ; todo ano
+毎晩 ; まいばん ; every evening ; toda noite
+前 ; まえ ; front ; frente
+〜前 ; 〜まえ ; before, in front of ; antes de, em frente a
+曲がる ; まがる ; to turn ; virar
+不味い ; まずい ; bad tasting ; sabor ruim
+また ; また ; also, again ; também, novamente
+まだ ; まだ ; not yet ; ainda não
+町 ; まち ; city, town ; cidade, vila
+待つ ; まつ ; to wait ; esperar
+真直ぐに ; まっすぐに ; straight ahead ; em linha reta
+マッチ ; マッチ ; matches ; fósforos
+窓 ; まど ; window ; janela
+丸い ; まるい ; round ; redondo
+万 ; まん ; ten thousand ; dez mil
+万年筆 ; まんねんひつ ; fountain pen ; caneta tinteiro
+磨く ; みがく ; to polish, to brush ; polir, escovar
+右 ; みぎ ; right ; direita
+短い ; みじかい ; short ; curto
+お水 ; おみず ; water ; água
+店 ; みせ ; shop ; loja
+見せる ; みせる ; to show, to display ; mostrar
+道 ; みち ; road ; estrada
+三日 ; みっか ; 3rd day of a month, 3 days ; 3º dia do mês, 3 dias
+三つ ; みっつ ; three (counter for small objects) ; três (contador para pequenos objetos)
+皆さん ; みなさん ; everyone ; todos
+南 ; みなみ ; south ; sul
+耳 ; みみ ; ear ; ouvido
+見る ; みる ; to see, to watch ; ver, assistir
+皆 ; みんな ; all, everyone ; todos, todo mundo
+六日 ; むいか ; the 6th day of a month, 6 days ; 6º dia do mês, 6 dias
+向こう ; むこう ; over there ; ali, lá
+難しい ; むずかしい ; difficult ; difícil
+六つ ; むっつ ; six (counter for small objects) ; seis (contador para pequenos objetos)
+目 ; め ; eye ; olho
+メートル ; メートル ; meter ; metro
+めがね ; めがね ; a pair of glasses ; um par de óculos
+もう ; もう ; already, yet ; já, ainda
+もう ; もう ; (one) more ; mais (um)
+木曜日 ; もくようび ; Thursday ; quinta-feira
+もしもし ; もしもし ; hello on the phone ; alô (ao telefone)
+勿論 ; もちろん ; of course ; claro, com certeza
+持つ ; もつ ; to have, to own ; ter, possuir
+もっと ; もっと ; more ; mais
+物 ; もの ; thing ; coisa
+門 ; もん ; gate ; portão
+問題 ; もんだい ; problem, question ; problema, pergunta
+〜屋 ; 〜や ; shop, store ; loja
+八百屋 ; やおや ; vegetable shop ; loja de vegetais
+野菜 ; やさい ; vegetable ; vegetal
+優しい ; やさしい ; gentle ; gentil
+安い ; やすい ; cheap, inexpensive ; barato, acessível
+休み ; やすみ ; holiday, vacation ; feriado, férias
+休む ; やすむ ; to rest ; descansar
+八つ ; やっつ ; eight ; oito
+山 ; やま ; mountain ; montanha
+やる ; やる ; to do ; fazer
+八日 ; ようか ; 8th day of the month, 8 days ; 8º dia do mês, 8 dias
+洋服 ; ようふく ; western style clothing ; roupa de estilo ocidental
+よく ; よく ; often ; frequentemente
+横 ; よこ ; horizontal ; horizontal
+四日 ; よっか ; 4th day of the month, 4 days ; 4º dia do mês, 4 dias
+四つ ; よっつ ; four ; quatro
+呼ぶ ; よぶ ; to call ; chamar
+読む ; よむ ; to read ; ler
+夜 ; よる ; night ; noite
+来月 ; らいげつ ; next month ; próximo mês
+来週 ; らいしゅう ; next week ; próxima semana
+来年 ; らいねん ; next year ; próximo ano
+ラジオ ; ラジオ ; radio ; rádio
+立派 ; りっぱ ; splendid ; esplêndido
+留学生 ; りょうがくせい ; foreign student ; estudante estrangeiro
+両親 ; りょうしん ; parents ; pais
+料理 ; りょうり ; cooking ; culinária
+旅行 ; りょこう ; travel ; viagem
+れい ; れい ; zero ; zero
+冷蔵庫 ; れいぞうこ ; refrigerator ; geladeira
+レコード ; レコード ; record ; disco
+レストラン ; レストラン ; restaurant ; restaurante
+練習 ; れんしゅう ; practice ; prática
+六 ; ろく ; six ; seis
+ワイシャツ ; わいしゃつ ; white shirt ; camisa social
+若い ; わかい ; young ; jovem
+分かる ; わかる ; to know, to understand ; saber, entender
+忘る ; わする ; to forget ; esquecer
+私 ; わたし ; me, I ; eu
+渡す ; わたす ; to hand over ; entregar
+渡る ; わたる ; to cross ; atravessar
+悪い ; わるい ; bad ; ruim
